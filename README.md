@@ -12,3 +12,4 @@ The R script works with a small sample of the whole dataset. If computation of t
 ## Authors
 
 * **Curdin Derungs** - *implementation* - [curdon](https://github.com/curdon)
+* **[Markus Egli](https://www.geo.uzh.ch/en/studying/spez_master/physical_geography/People/egli.html)** - *algorithm*
